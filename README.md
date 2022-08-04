@@ -1,5 +1,5 @@
 # Message_Encoder
-An encryption and decryption software program to encrypt and decrypt messages with the Caesar and Vigènere method, made by SLZR 
+An encryption and decryption software program to encrypt and decrypt messages with the Caesar and Vigènere method, made by SLZR for a school project (you can find the subject in the file called "SUJET.pdf")
 
 # Explanatory notes
 This system works only with Python (go to Message_Encoder.py to see exactly how it works). You can encrypt any sort of message or text with it and you will also be able to decrypt them (only for Ceasar Method, the decryption of Vigenere is comming quickly). 
