@@ -1,10 +1,9 @@
 # Message_Encoder
 An encryption and decryption software program to encrypt and decrypt messages with the Caesar and Vigènere method, made by SLZR for a school project (you can find the subject in the file called ("SUJET.pdf")
 
-![alt text](logoME.png)
-
 <p>
-   <img src="logoME.png" alt="Message Encoder">
+   <img src="logoME.png" alt="Message Encoder" style= "
+   align-items:center">
 </p>
 
 # Explanatory notes
