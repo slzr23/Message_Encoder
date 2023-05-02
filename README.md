@@ -3,6 +3,10 @@ An encryption and decryption software program to encrypt and decrypt messages wi
 
 ![alt text](logoME.png)
 
+<p>
+   <img src="logoME.png" alt="Message Encoder">
+</p>
+
 # Explanatory notes
 This system works only with Python (go to Message_Encoder.py to see exactly how it works). You can encrypt any sort of message or text with it and you will also be able to decrypt them (only for Ceasar Method, the decryption of Vigenere is comming quickly). 
 
